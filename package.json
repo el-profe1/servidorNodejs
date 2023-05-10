@@ -1,0 +1,22 @@
+{
+  "name": "servidornodejs",
+  "version": "1.0.0",
+  "description": "Servidor escrito en Node.js para el curso del SENA",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/el-profe1/servidorNodejs.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Daniel-Loaiza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/el-profe1/servidorNodejs/issues"
+  },
+  "homepage": "https://github.com/el-profe1/servidorNodejs#readme"
+}
